@@ -44,7 +44,7 @@ drwxr-xr-x   7 aolen  2019    238 Dec  6 20:32 ft_printf
 -rw-r--r--   1 aolen  2019     54 Dec  6 20:32 .gitignore
 -rw-r--r--   1 aolen  2019     14 Dec  6 20:32 author
 ```
-Print content of `/usr` directory in list format excluding `.` and `..` 
+Print content of `/usr/bin` directory in list format excluding `.` and `..` 
 sorted by time without owner username:
 ```shell script
 > ./ft_ls -lgAt /usr/bin                                                                                                                                                                                                   [±master ●]
